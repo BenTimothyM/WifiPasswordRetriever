@@ -1,5 +1,5 @@
 
-# 🔑 WifiPasswordRetriever (Wi-Fi Password Retriever Utility)
+# 🔑 Wi-Fi Password Retriever Utility
 
 ![Batch Script](https://img.shields.io/badge/Batch_Script-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge) 
