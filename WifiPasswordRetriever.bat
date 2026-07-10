@@ -58,7 +58,7 @@ echo.
 echo Scanning system and extracting credentials. Please wait...
 echo.
 
-set "output_file=all_wifi_passwords.txt"
+set "output_file=%~dp0all_wifi_passwords.txt"
 
 :: Create or overwrite the output file with a header
 echo =============================================================================== > "%output_file%"
